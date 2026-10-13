@@ -10,7 +10,6 @@ import os
 
 st.set_page_config(
     page_title="CareerMatch",
-    page_icon="🎯",
     layout="centered"
 )
 
