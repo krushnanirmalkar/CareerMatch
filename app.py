@@ -181,7 +181,7 @@ skill_options = list(
 # UI
 # --------------------------------------------------
 
-st.title("🎯 CareerMatch")
+st.title("CareerMatch")
 
 st.subheader(
     "Skill and Interest Based Career Role Recommendation Using KNN"
@@ -368,7 +368,7 @@ if st.button(
 
 st.divider()
 
-with st.expander("ℹ️ How CareerMatch Works"):
+with st.expander("How CareerMatch Works"):
 
     st.write(
         """
